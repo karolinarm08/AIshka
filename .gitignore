@@ -150,3 +150,4 @@ vite.config.ts.timestamp-*
 
 __pycache__/
 config.py
+.env
